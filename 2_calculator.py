@@ -90,17 +90,20 @@ elif menu == 4:
     b = int(input("두 번째 숫자: "))
     print(div(a, b))
 
-# 팩토리얼 계산 기능을 완성해주세요.
 elif menu == 5:
-    print("기능이 아직 구현되지 않았습니다.")
+    n = int(input("N을 입력해주세요: "))
+    print(factorial(n))
 
-# 근의 공식 계산 기능을 완성해주세요.
 elif menu == 6:
-    print("기능이 아직 구현되지 않았습니다.")
+    a = int(input("x^2의 계수: "))
+    b = int(input("x의 계수: "))
+    c = int(input("상수 값: "))
+    print(root_formula(a, b, c))
 
-# 특정 범위의 합 계산 기능을 완성해주세요.
 elif menu == 7:
-    print("기능이 아직 구현되지 않았습니다.")
+    a = int(input("덧셈의 시작 범위: "))
+    b = int(input("덧셈의 끝 범위: "))
+    print(between_sum(a, b))
 
 elif menu == 8:
     print("계산기를 종료합니다.")
