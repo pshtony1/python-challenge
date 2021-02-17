@@ -2,9 +2,10 @@
 3. 약간의 소금
 
 
-아래 링크는 salt 생성기를 만들 때 도움이 될 링크입니다!
+아래 링크는 salt 생성기를 만들 때 크게 도움이 될 링크입니다!
 - Random 라이브러리: https://wikidocs.net/33#random
-- 숫자를 문자로: https://wikidocs.net/32#chr
+- 숫자를 문자로 바꾸는 법: https://wikidocs.net/32#chr
+- 아스키코드? https://stepbystep1.tistory.com/10
 
 
 명세의 조건들을 만족하는 함수를 완성해주세요.
