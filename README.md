@@ -42,7 +42,7 @@
 
 **해당 코드를 토대로 나만의 코드를 작성해보자.**
 
-<U>**코드 양식을 자신의 `repl`로 옮기는 방법은 맨 마지막장에 나와있으니 참고하자.**</U>
+**코드 양식을 자신의 `repl`로 옮기는 방법은 [맨 마지막장](https://github.com/pshtony1/python-challenge/blob/master/README.md#replit%EC%82%AC%EC%9A%A9%EB%B2%95)에 나와있으니 참고하자.**
 
 <br/>
 
